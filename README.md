@@ -51,9 +51,9 @@ root/
 | 이름 | 백준 아이디 | 사용 언어 | 목표 |
 | --- | --- | --- | --- |
 | **Hyunji** | hyjoo0909 | Python | 골드 달성! |
-| **_** | [아이디 입력] | Python | 1일 1솔 |
-| **_** | [아이디 입력] | Python | 코테 통과 |
-| **_** | [아이디 입력] | Python | 꾸준히 하기 |
+| **Jaeyeon** | prettymysky | Python | 취뽀 |
+| **jihun** | parkjihun5 | Python | 코테 통과 |
+| **JinWoo** | lkk7209 | Python | 꾸준히 하기 |
 
 
 ---
