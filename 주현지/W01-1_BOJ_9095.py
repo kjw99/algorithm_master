@@ -21,12 +21,6 @@ dp[i] = dp[i-1] + dp[i-2] + dp[i-3]
 import sys
 input = sys.stdin.readline
 
-# t = int(input()) # 테스트 케이스
-# n = int(input()) 
-
-import sys
-input = sys.stdin.readline
-
 # 초기값 설정
 dp = [0] * 12
 dp[1] = 1
