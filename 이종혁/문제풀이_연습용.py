@@ -1,5 +1,7 @@
-s = input()
-for i in range(97, 123):
-    x = chr(i) 
-    result = s.find(x)
-    print(result, end=' ')
+import sys
+numbers = [int(num) for num in sys.stdin]
+lst = []
+for number in numbers :
+    a = number % 42 
+    lst.append(a)
+print(len(set(lst)))
