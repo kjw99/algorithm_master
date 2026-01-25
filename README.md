@@ -54,7 +54,7 @@ root/
 | **Jaeyeon** | prettymysky | Python | 취뽀 |
 | **jihun** | parkjihun5 | Python | 코테 통과 |
 | **JinWoo** | lkk7209 | Python | 꾸준히 하기 |
-
+| **JongHyeok** | popoa09 | Python | 취업하기 |
 
 ---
 
